@@ -2,7 +2,7 @@
 
 一款**纯本地、零后端、完全本地运行的单页 Web 应用，** 旨在为各类红白喜事提供一个现代化、安全、高效的礼金（份子钱）管理解决方案。它彻底告别了传统的手写礼簿，通过数字化的方式解决了记录、统计、查询和存档的全部流程，以**简单易用**为最高设计原则。
 
-[在线演示](https://jingguanzhang.github.io/gift-book/)
+[在线演示](https://diviner123.github.io/gift-book/)
 
 ![unnamed](https://github.com/user-attachments/assets/1ebb4003-3dd5-442e-bc65-066ea17958eb)
 
